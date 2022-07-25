@@ -1,4 +1,4 @@
-# Card-View-in-HTML-CSS-by-Dev-MHRONY
+# Card View Design in HTML & CSS
 Card View in HTML &amp; CSS by Dev-MHRONY
 
 Preview Link: 
